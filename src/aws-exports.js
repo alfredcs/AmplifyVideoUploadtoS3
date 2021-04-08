@@ -13,5 +13,3 @@ const awsmobile =  {
 
 
 export default awsmobile;
-@alfredcs
-
